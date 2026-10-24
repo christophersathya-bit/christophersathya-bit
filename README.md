@@ -25,12 +25,14 @@ I build **physics-informed machine learning**, **high-performance CFD solvers** 
 
 | Project | What it shows |
 | --- | --- |
-| **GPT-2 from scratch** | A transformer language model built from scratch in TensorFlow and trained on WikiText-2: attention, tokenization, training loop and text generation |
+| [**GPT-2 from scratch**](https://github.com/christophersathya-bit/GPT2_Model_Build) | A transformer language model built from scratch in TensorFlow and trained on WikiText-2: causal self-attention, BPE tokenisation, training loop and top-k text generation |
+
+### 🔬 Research codes (developed at CIIAE)
+
+| Work | What it does |
+| --- | --- |
 | **Nanofluid MHD heat-transfer solver** | Semi-Lagrangian advection, FFT-based PDE solver, custom Laplacian, magnetic-field forcing on staggered grids |
 | **Enthalpy–porosity PCM solver** | Phase-change modelling of thermal storage charging and discharging, with geometry optimised by a genetic algorithm |
-| **PINN for inverse heat transfer** | Physics-informed neural network that recovers unknown thermal parameters from sparse data |
-
-*(Add links as you upload each repository.)*
 
 ---
 
