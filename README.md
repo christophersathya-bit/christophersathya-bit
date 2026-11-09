@@ -28,7 +28,7 @@ I build **open datasets**, **physics-informed machine learning**, **CFD solvers*
 | [**Computational-Fluid-Dynamics-Julia**](https://github.com/christophersathya-bit/Computational-Fluid-Dynamics-Julia) | Beginner-friendly CFD in Julia: finite differences → finite volume → 2D convection–diffusion, with theory, exercises and validated results |
 | [**GPT2_Model_Build**](https://github.com/christophersathya-bit/GPT2_Model_Build) | A GPT-2 style transformer language model built from scratch in TensorFlow |
 
-💡 *Using one of the datasets in your research? A ⭐ on the repo, a citation, or an Issue with feedback helps a lot.*
+💡 *Find a dataset useful? A ⭐ on the repo or an Issue with feedback helps a lot.*
 
 ---
 
