@@ -26,7 +26,6 @@ I build **open datasets**, **physics-informed machine learning**, **CFD solvers*
 | Repository | What's inside |
 | --- | --- |
 | [**Computational-Fluid-Dynamics-Julia**](https://github.com/christophersathya-bit/Computational-Fluid-Dynamics-Julia) | Beginner-friendly CFD in Julia: finite differences → finite volume → 2D convection–diffusion, with theory, exercises and validated results |
-| [**Solar-Collector-Ray-Tracing**](https://github.com/christophersathya-bit/Solar-Collector-Ray-Tracing) | SolTrace Monte Carlo ray-tracing models of a parabolic-trough collector, comparing two receiver sizes |
 | [**GPT2_Model_Build**](https://github.com/christophersathya-bit/GPT2_Model_Build) | A GPT-2 style transformer language model built from scratch in TensorFlow |
 
 💡 *Using one of the datasets in your research? A ⭐ on the repo, a citation, or an Issue with feedback helps a lot.*
